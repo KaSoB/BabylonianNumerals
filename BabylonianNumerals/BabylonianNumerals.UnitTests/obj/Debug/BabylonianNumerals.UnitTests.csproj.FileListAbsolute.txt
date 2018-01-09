@@ -1,0 +1,16 @@
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\BabylonianNumerals.UnitTests.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\BabylonianNumerals.UnitTests.pdb
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\BabylonianNumerals.exe
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\BabylonianNumerals.pdb
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\BabylonianNumerals.exe.config
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\obj\Debug\BabylonianNumerals.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\obj\Debug\BabylonianNumerals.UnitTests.csproj.CoreCompileInputs.cache
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\obj\Debug\BabylonianNumerals.UnitTests.dll
+c:\users\kamil\source\repos\reps\BabylonianNumerals\BabylonianNumerals.UnitTests\obj\Debug\BabylonianNumerals.UnitTests.pdb
